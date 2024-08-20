@@ -7,9 +7,11 @@ layout: page
 {% assign posts = paginator.posts | default: site.posts %}
 
 {% for post in posts reversed %}
+<p class="post-title">
   <a href="{{ post.url | absolute_url }}">
-    <p class="post-title">{{ post.title | strip_html }}</p>
+    {{ post.title | strip_html }}
   </a>
+</p>  
 {% endfor %}
 
 {% comment %}

@@ -21,9 +21,13 @@ Please do your own research before believing anything contained in this site.
 
 ---
 
-<div>
+
+{: #introduction :}
+## Introduction
+
+<!-- <div>
     <h2 style="text-align: center;">Introduction</h2>
-</div>
+</div> -->
 
 
 The KJV Only movement is propagating lots of bad ideas, which is destroying the faith of the next generation of Christians.<sup>1</sup> 
@@ -67,10 +71,10 @@ Footnotes:
 
 ---
 
-<!-- {: #blog-posts :}
-## Blog Posts -->
+{: #blog-posts :}
+## Blog Posts
 
 
-<div id="blog-posts">
+<!-- <div id="blog-posts">
     <h2 style="text-align: center;">Blog Posts</h2>
-</div>
+</div> -->
