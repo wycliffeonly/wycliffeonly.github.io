@@ -6,9 +6,16 @@ layout: page
 
 {% assign posts = paginator.posts | default: site.posts %}
 
+{% for post in posts reversed %}
+  <a href="{{ post.url | absolute_url }}">
+    <p class="post-title">{{ post.title | strip_html }}</p>
+  </a>
+{% endfor %}
+
+{% comment %}
 <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
 <ul class="posts-list list-unstyled" role="list">
-  {% for post in posts %}
+  {% for post in posts reversed %}
   <li class="post-preview">
     <article>
 
@@ -120,3 +127,4 @@ layout: page
   {% endif %}
 </ul>
 {% endif %}
+{% endcomment %}

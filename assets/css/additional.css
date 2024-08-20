@@ -1,0 +1,31 @@
+
+blockquote {
+    color: #5f5f5f;
+    /* font-style: normal; */
+    padding: .5rem 1rem;
+    font-size: 105%;
+    border-left: .40rem solid #eee;
+
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    
+    p {
+        margin-top: 0;
+        margin-bottom: 0.5rem;
+    }
+    
+    *:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  p {
+    margin: 1.1rem 0;
+}
+
+.container-md li {
+  margin-bottom: 0.4em;
+}
