@@ -1,0 +1,77 @@
+---
+layout: post
+title: Everyone should be a gardener, says Adam
+subtitle:
+cover-img: 
+thumbnail-img: 
+share-img: 
+tags:
+author: 
+---
+
+> Genesis ch 2 v 15
+>
+> Therefore the Lord God took man, and set him in (the) paradise of liking, that he should work and keep it. (And so the Lord God took the man, and put him in the Garden of Eden, so that he would work it, and care for it.)
+>
+> (Wycliffe Bible 1382-1395)
+
+<!-- Genesis 2:15 -->
+
+
+Adam has been hearing from a man that if he does not serve God, bad things will happen to him.
+
+"But what does serving God mean?", he questioned.
+
+"It means doing what I desire you to do", the man said.
+
+"Huh?"
+
+"I mean doing what God says in his word", the man corrected himself.
+
+"What did God tell me?", Adam thought to himself. "Ahh, it was to work in the garden and care for it --- God wants me to be a gardener. Everyone should be a gardener!"
+
+"Everyone should be a gardener!", he shouted in excitement.
+
+"Uh, wait.. No!", the man shouted back.
+
+"Why not. God said so in Genesis ch 2 v 15."
+
+"Hmmm.. But that verse is before the Fall of Man."
+
+"Oh yes, you are right." But he continued reading up to Genesis ch 3..
+
+> v 17
+>
+> Soothly God said to Adam, For thou heardest the voice of thy wife, and hast eaten of the tree, of which I commanded to thee that thou shouldest not eat, the earth shall be cursed in thy work, that is, for thy sin; in travails thou shalt eat thereof in all the days of thy life; (And God said to Adam, For thou heardest thy wife's voice, and hast eaten of the tree, of which I commanded to thee that thou shouldest not eat, the ground shall be cursed on account of thee, that is, because of thy sin; only after much travail, or much labour, shalt thou get food from it all the days of thy life;)
+>
+> (Wycliffe Bible 1382-1395)
+
+"That's a hard read. Let's find something easy-to-read."
+
+<blockquote >
+<pre style="font-size: 1.1rem; font-family: var(--body-font); line-height: 1.2; color: #5f5f5f; font-style: italic;">
+vv 17ff
+
+Then God said to the man,
+
+    “I commanded you not to eat from that tree.
+        But you listened to your wife and ate from it.
+    So I will curse the ground because of you.
+        You will have to work hard all your life for the food the ground produces.
+    The ground will grow thorns and weeds for you.
+        And you will have to eat the plants that grow wild in the fields.
+    You will work hard for your food,
+        until your face is covered with sweat.
+    You will work hard until the day you die,
+        and then you will become dust again.
+    I used dust to make you,
+        and when you die, you will become dust again.”
+
+(ERV)
+</pre>
+</blockquote>
+
+
+"Aha.. That verse is after the Fall of Man.. So I stand by my original statement: You are not serving God if you are not a gardener!"
+
+"Everyone should be a gardener!"
