@@ -45,11 +45,11 @@ A man has been telling Adam that if he does not serve God, bad things will happe
 >
 > (Wycliffe Bible 1382-1395)
 
-"That's a hard read. Let's find something that makes it easy-to-read --- a commentary."
+"That's a hard read. Let's find something that makes it easy-to-read. Let's consult a commentary --- the one named ERV."
 
 <blockquote >
 <pre style="font-size: 1.1rem; font-family: var(--body-font); line-height: 1.2; color: #5f5f5f; font-style: italic;">
-vv 17ff
+Genesis ch 3 vv 17ff
 
 Then God said to the man,
 
@@ -65,8 +65,6 @@ Then God said to the man,
         and then you will become dust again.
     I used dust to make you,
         and when you die, you will become dust again.”
-
-(ERV)
 </pre>
 </blockquote>
 
