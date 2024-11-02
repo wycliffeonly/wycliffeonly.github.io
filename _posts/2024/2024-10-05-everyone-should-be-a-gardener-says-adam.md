@@ -10,7 +10,7 @@ author:
 ---
 
 
-A man has been telling Adam that if he does not serve God, bad things will happen to him.
+A man had been telling Adam that if he does not serve God, bad things will happen to him.
 
 "But what does serving God mean?", Adam questioned.
 

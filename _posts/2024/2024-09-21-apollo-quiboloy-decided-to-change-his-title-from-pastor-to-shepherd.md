@@ -32,7 +32,7 @@ His agony worsened when he read Jeremiah ch 12 v 10 in another modern bible, the
 
 "This internet thing is really changing this game I have been playing. It's much harder to fool people these days. From now on I'm going to be truthful to people about things, because who knows what technological innovations will come in the future which exposes untruthfulness in me," he promised himself. 
 
-He added that during his stay in prison, he is going to read the whole of Jeremiah to see what other good things it has to say about his new title: shepherd.
+He added that during his stay in prison, he is going to read the whole of Jeremiah to see what [other good things it has to say about his new title: shepherd](/why-do-modern-bibles-mock-pastors/).
 
 "Shepherd Apollo C. Quiboloy", he mumbled to himself. "Hmm, that does not sound very authoritative, but if this is the sacrifice I have to offer in exchange for my freedom, so be it."
 
