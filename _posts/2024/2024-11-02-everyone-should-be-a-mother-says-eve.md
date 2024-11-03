@@ -62,15 +62,10 @@ Can we get away with that?
 
 Sure.. People are so easily fooled these days because everyone believes everything on the internet.
 
-Hmm.. Okay.. But the premise "transwomen are real men" cannot be scientifically proven. While the premise "real men do not get pregnant" can be scientifically proven. 
-
-Science is not the only tool in existence that can validate truth claims. Like I said, people believe everything on the internet. Let's put our truth claims on the internet and that validates it.
-
 Is the claim "people believe everything on the internet" even true?
-
 
 Eve ignored him and started concocting a plan to establish a new religion which she can use to validate her premises and truth claims. 
 
-"I will declare myself as mother god, and put it on the internet".
+"I will migrate to South Korea, the seoul of the earth, and change my name into Zahng Gil-jah. I will declare myself as mother god, and put it on the internet".
 
 "Everyone should be a mother."
