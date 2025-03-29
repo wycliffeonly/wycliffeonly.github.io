@@ -48,7 +48,7 @@ Why is it better?
 
  - Wycliffe is centuries older than King James, and so is closer to the originals.
  - John Wycliffe was persecuted; so he was part of the true church<sup>3</sup>.
- - Wycliffe 1382-1395 uses more archaic words, phrases, and sentence contruction; so it sounds more reverent than KJV 1611.
+ - Wycliffe 1382-1395 uses more archaic words, phrases, and sentence construction; so it sounds more reverent than KJV 1611.
  - Wycliffe, unlike modern translations, does not mock the king.
  - Wycliffe, unlike modern translations, does not mock pastors.
  <!-- - Wycliffe 1382-1395, unlike all the other modern translations, does not say that John Wycliffe and Jesus are the same person. -->

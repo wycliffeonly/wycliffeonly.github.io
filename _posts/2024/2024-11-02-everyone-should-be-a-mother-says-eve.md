@@ -9,7 +9,7 @@ tags:
 author: 
 ---
     
-A man had been telling Eve that if she does not serve God, bad things will happen to her.
+A man has been telling Eve that if she does not serve God, bad things will happen to her.
 
 "But what does serving God mean?", Eve asked the man.
 

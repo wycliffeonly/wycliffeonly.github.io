@@ -37,3 +37,7 @@ He added that during his stay in prison, he is going to read the whole of Jeremi
 "Shepherd Apollo C. Quiboloy", he mumbled to himself. "Hmm, that does not sound very authoritative, but if this is the sacrifice I have to offer in exchange for my freedom, so be it."
 
 "Freeeedommmm", he shouted. Which caught the attention of Risa Hontiveros standing a few hollowblocks away. She ignored him and went on answering queries from the press.
+
+One reporter asked, "Is this the way they are solving problems in far away places?"
+
+"Yes, of course. I've been to many far away places, and they are solving problems this very same way. The Philippines, as an archipelago, has many far away places within our very own borders. Therefore we should be solving problems the same way far away places are solving them."
